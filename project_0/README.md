@@ -53,7 +53,7 @@
 
 ### Выводы:
 
-Алгоритм работает в соответствии с условием. Метод с двух указателей показал себя достаточно успешно в данной задачи.
+Алгоритм работает в соответствии с условием. Метод двух указателей показал себя достаточно успешно в данной задачи.
 
 :arrow_up:[к оглавлению](https://github.com/elvisandsivle/sf_data_science/tree/main/project_0/README.md#оглавление)
 :arrow_up::arrow_up:[к проектам](https://github.com/elvisandsivle/sf_data_science/blob/main/README.md#Проекты)
