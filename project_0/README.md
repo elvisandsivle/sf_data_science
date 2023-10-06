@@ -12,6 +12,7 @@
 Угадать загаданное компьютером число за минимальное число попыток.
 
 :arrow_up:[к оглавлению](https://github.com/elvisandsivle/sf_data_science/tree/main/project_0/README.md#оглавление)
+:arrow_up::arrow_up:[к проектам](https://github.com/elvisandsivle/sf_data_science/README.md#Проекты)
 
 
 ### Какой кейс решаем?    
@@ -32,12 +33,14 @@
 Загадываем список чисел через функцию ``np.random.randint(1, 101, size=(10000))``
   
 :arrow_up:[к оглавлению](https://github.com/elvisandsivle/sf_data_science/tree/main/project_0/README.md#оглавление)
+:arrow_up::arrow_up:[к проектам](https://github.com/elvisandsivle/sf_data_science/README.md#Проекты)
 
 
 ### Этапы работы над проектом  
 Для решения данной задачи было решено использовать метод двух указателей (low, high).
 
 :arrow_up:[к оглавлению](https://github.com/elvisandsivle/sf_data_science/tree/main/project_0/README.md#оглавление)
+:arrow_up::arrow_up:[к проектам](https://github.com/elvisandsivle/sf_data_science/README.md#Проекты)
 
 
 ### Результаты:  
@@ -45,6 +48,7 @@
 Алгоритм "угадывает" число в среднем за 7 попыток при 10000 повторений.
 
 :arrow_up:[к оглавлению](https://github.com/elvisandsivle/sf_data_science/tree/main/project_0/README.md#оглавление)
+:arrow_up::arrow_up:[к проектам](https://github.com/elvisandsivle/sf_data_science/README.md#Проекты)
 
 
 ### Выводы:
@@ -52,3 +56,4 @@
 Алгоритм работает в соответствии с условием. Метод с двух указателей показал себя достаточно успешно в данной задачи.
 
 :arrow_up:[к оглавлению](https://github.com/elvisandsivle/sf_data_science/tree/main/project_0/README.md#оглавление)
+:arrow_up::arrow_up:[к проектам](https://github.com/elvisandsivle/sf_data_science/README.md#Проекты)
