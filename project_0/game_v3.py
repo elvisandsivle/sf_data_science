@@ -7,13 +7,13 @@ def random_predict(number:int=1) -> int:
 
     while True:
         count += 1
-        predict_number = np.random.randint(low, high)
+        predict_number = np.random.randint(low, high) # предполагаемое число
         if predict_number > number:
             high = predict_number
         elif predict_number < number:
             low = predict_number + 1
         else:
-            break
+            break # конец игры, выход из цикла
     return count
  
 def score_game(random_predict) -> int:
