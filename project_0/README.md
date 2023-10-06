@@ -48,7 +48,7 @@
 Алгоритм "угадывает" число в среднем за 7 попыток при 10000 повторений.
 
 :arrow_up:[к оглавлению](https://github.com/elvisandsivle/sf_data_science/tree/main/project_0/README.md#оглавление)
-:arrow_up::arrow_up:[к проектам](https://github.com/elvisandsivle/sf_data_science/blob/main/README.mdПроекты)
+:arrow_up::arrow_up:[к проектам](https://github.com/elvisandsivle/sf_data_science/blob/main/README.md#Проекты)
 
 
 ### Выводы:
