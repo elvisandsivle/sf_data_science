@@ -3,8 +3,8 @@
 ## ОПИСАНИЕ ЗАДАЧИ
 В распоряжении есть база резюме, выгруженная с сайта поиска вакансий hh.ru.
 
-Файл с исходными данными вы можете скачать [*здесь*](https://drive.google.com/file/d/1rIeApJw9ygavQ9vaqrZbtLeSj8hwW9vL/view?usp=sharing)
-Файл с данными по курсу валют вы можете скачать [*здесь*](https://drive.google.com/file/d/1gCrf3pw1eTF0memXHn05XwTpQ5fgnBtE/view?usp=sharing)
+* Файл с исходными данными вы можете скачать [*здесь*](https://drive.google.com/file/d/1rIeApJw9ygavQ9vaqrZbtLeSj8hwW9vL/view?usp=sharing)
+* Файл с данными по курсу валют вы можете скачать [*здесь*](https://drive.google.com/file/d/1gCrf3pw1eTF0memXHn05XwTpQ5fgnBtE/view?usp=sharing)
 
 ## Проблематика:
 Часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме.
