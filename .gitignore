@@ -159,3 +159,5 @@ cython_debug/
 #.idea/
 SkillFactory/Модуль 13. Анализ резюме из HeadHunter/data PJ/ExchangeRates.zip
 SkillFactory/Модуль 13. Анализ резюме из HeadHunter/data PJ/dst-3.0_16_1_hh_database.csv
+SkillFactory/HeadHunter_PJ/data PJ/dst-3.0_16_1_hh_database.csv
+SkillFactory/HeadHunter_PJ/data PJ/ExchangeRates.zip
