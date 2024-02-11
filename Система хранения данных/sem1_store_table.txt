@@ -1,0 +1,42 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+Table product {
+  product_id integer [primary key]
+  Category varchar
+  Sub_Category varchar
+  Product_Name varchar
+}
+
+Table customer {
+  customer_id integer [primary key]
+  customer_name varchar
+  segment varchar
+}
+
+Table address {
+  address_id integer [primary key]
+  Country varchar
+  City varchar
+  State varchar
+  Postal_Code integer
+  Region varchar
+}
+
+Table store {
+  row_id integer [primary key]
+  order_id integer
+  Order_Date timestamp
+  Ship_Date timestamp
+  Ship_Mode varchar
+  customer_id integer
+  address_id integer
+  product_id integer
+  sales float
+}
+
+Ref: store.product_id > product.product_id // many-to-one
+
+Ref: store.address_id > address.address_id
+
+Ref: store.customer_id > customer.customer_id
