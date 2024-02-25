@@ -89,5 +89,5 @@ where (cust.job_industry_category = 'IT'
 	and trans.order_status = 'Approved'
 	and trans.transaction_date
 	between '2017-07-07'::date and '2017-07-17'::date
-group by cust.customer_id, trans.transaction_date, trans.order_status, cust.job_industry_category
+group by cust.customer_id, trans.transaction_date, trans.order_status, cust.job_industry_category, cust.first_name, cust.last_name
 order by trans.transaction_date desc
