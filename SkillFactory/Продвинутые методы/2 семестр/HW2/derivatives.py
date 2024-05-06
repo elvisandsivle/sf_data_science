@@ -106,8 +106,12 @@ class LossAndDerivatives:
         """
 
         # YOUR CODE HERE
-        return np.array(map(lambda diff : 0 if diff == 0 else 1 if diff > 0 else -1, list(X.dot(w) - Y)))
-
+        difference = w - Y
+        abs_derivative = np.where(difference == 0, 0, difference)
+        abs_derivative = np.where(abs_derivative > 0, 1, abs_derivative)
+        abs_derivative = np.where(abs_derivative < 0, -1, abs_derivative)
+        return X.T @ abs_derivative
+    
     @staticmethod
     def l2_reg_derivative(w):
         """
